@@ -1,5 +1,7 @@
 {
   "name": "iabBug",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
